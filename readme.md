@@ -1,6 +1,5 @@
 # 💫 About Me:
-Building AI-based projects, ML service components<br>Beginner–intermediate AI/ML projects, computer vision ideas, and practical software builds<br>Understanding real-world ML deployment, research direction for projects, and improving system design basics<br>DSA, AI/ML fundamentals, backend for AI apps, and how production ML systems are structured<br>Starting with AI/ML, structuring projects, or learning tech skills alongside college<br>
-
+Building AI-driven products and ML service components focused on real-world applications like computer vision, automation, and data-driven systems. Strong focus on taking ML models from experimentation to deployment, while building solid foundations in DSA, core AI/ML concepts, and backend engineering for scalable AI applications, alongside continuous hands-on project development and research-driven learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvrajsinghyadav20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajyadav730@gmail.com) 
